@@ -1,1 +1,1 @@
-# Ebac-qualidade-de-software-exercio
+# Ebac-qualidade-de-software-exercícios
